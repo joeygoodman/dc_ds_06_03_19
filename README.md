@@ -3,6 +3,7 @@
 # Data science fellowship 06/03/19 
 
 Hi this is Joey!
+change from terminal
 
 ### Data science calendar
 
